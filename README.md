@@ -1,0 +1,2 @@
+# gitskills
+Clone a repository.
